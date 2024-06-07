@@ -53,3 +53,7 @@ Desarrollo de Productos: Los equipos de desarrollo pueden usar estos datos para 
 
 **Resumen Final**
 Este análisis ofrece una comprensión profunda de las preferencias musicales de los usuarios, los hábitos de escucha y las características de las canciones populares. Los insights obtenidos pueden ser utilizados para mejorar la personalización, optimizar campañas de marketing y ajustar las estrategias de contenido para satisfacer mejor las necesidades y preferencias de los usuarios. 
+
+Source: Kaggle
+https://www.kaggle.com/datasets/thedevastator/streaming-activity-and-scrobble-features
+
