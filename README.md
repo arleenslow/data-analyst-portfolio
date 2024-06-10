@@ -1,4 +1,6 @@
-# data-analyst-portfolio
+# Music streaming data analysis
+
+Este conjunto de datos proporciona una colección completa y diversa de datos de streaming que abarca un periodo de cuatro años. Incluye actividades de streaming y funciones de «scrobble» de varias plataformas y dispositivos, como YouTube, Spotify, la biblioteca local de iTunes y Amazon Echo. Los datos proceden de un hogar con un amplio rango de edad, que abarca desde recién nacidos hasta personas de 38 años. Con una amplia gama de columnas, este conjunto de datos proporciona una visión profunda de los patrones y preferencias de consumo de música.
 
 El objetivo de este proyecto es analizar datos de actividad de streaming de un conjunto de usuarios. El análisis se centrará en identificar los géneros más populares, las canciones más escuchadas, los hábitos de escucha según el dispositivo y la hora del día, y las características promedio de las pistas más populares.
 
